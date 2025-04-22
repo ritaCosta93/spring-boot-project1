@@ -33,5 +33,5 @@ This application simulates a simple payment gateway using a controller, service 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/springboot-payment-sim.git
+   git clone https://github.com/ritaCosta93/spring-boot-project1.git
    cd springboot-payment-sim
